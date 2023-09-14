@@ -1,4 +1,4 @@
-DASH CRYPTO
+# DASH CRYPTO
 ![Screenshot (92)](https://github.com/darshaka1234/dash-crypto/assets/60168877/0225a6a8-ef23-4f0c-872c-4e80c79de8ac)
 
 
